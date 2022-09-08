@@ -1,0 +1,13 @@
+jax==0.3.4
+jaxlib==0.3.2
+matplotlib==3.5.0
+numpy==1.22.3
+optax==0.1.1
+pandas==1.4.1
+pennylane==0.22.2
+qiskit==0.36.1
+qiskit_ibm_runtime==0.4.0
+scikit_learn==1.1.0
+scipy==1.8.0
+seaborn==0.11.2
+openpyxl==3.0.9
